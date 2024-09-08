@@ -2,4 +2,3 @@ redis>=2.10, <3.0
 hiredis
 requests
 pyzmq<17
-zmq
